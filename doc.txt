@@ -1,1 +1,8 @@
+#doc oficial
 https://www.overleaf.com/4136851561zdyrfspnnphj#40d445
+
+#colab
+https://colab.research.google.com/drive/162XVm19w7myRvL41Ycm_bAZVTZxskdI5?usp=sharing
+
+#arquivos do drive para o colab
+https://drive.google.com/drive/folders/1VmVC6l7u8a4Mq9Tj_BbOMFiBudN_ovT5?usp=sharing
